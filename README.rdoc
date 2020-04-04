@@ -4,4 +4,4 @@ Two CRUD objects ✓
 
 Root to index page changed ✓
 
-Two validations: one for the first item and one for the second item ✓
+Two validations: one for the first item (entree) and one for the second item (dessert) ✓
