@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  sweet: MyString
+  choco: 1
+  words: MyText
+  entree_id: 
+
+two:
+  sweet: MyString
+  choco: 1
+  words: MyText
+  entree_id: 
